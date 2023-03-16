@@ -1,4 +1,6 @@
 # Awesome awesome prompts
+[![PRs Welcome][pr-image]][pr-url]
+[![License][license-image]][license-url]
 
 An awesome list for collecting awesome lists related to prompt engineering.
 
@@ -11,3 +13,9 @@ An awesome list for collecting awesome lists related to prompt engineering.
 - [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - A collection of resources related to prompt engineering, including guides, tools, and datasets.
 - [Prompt 编写模式：如何将思维框架赋予机器](https://github.com/prompt-engineering/prompt-patterns) - A Chinese-language guide to prompt engineering, focusing on patterns and frameworks for writing effective prompts.
 - [免费 Prompt Engineering 教程](https://github.com/thinkingjimmy/Learning-Prompt) - A Chinese-language tutorial series on prompt engineering, covering everything from basic concepts to advanced techniques.
+
+[pr-image]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg
+[license-image]: https://img.shields.io/github/license/DukeLuo/awesome-awesome-prompts
+
+[pr-url]: https://github.com/DukeLuo/awesome-awesome-prompts/pulls
+[license-url]: https://github.com/DukeLuo/awesome-awesome-prompts/blob/main/LICENSE
