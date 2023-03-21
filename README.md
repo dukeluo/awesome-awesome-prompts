@@ -1,4 +1,4 @@
-# Awesome awesome prompts
+# Awesome Awesome Prompts ✨
 [![PRs Welcome][pr-image]][pr-url]
 [![License][license-image]][license-url]
 
@@ -15,6 +15,9 @@ An awesome list for collecting awesome lists related to prompt engineering.
 - [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - A collection of resources related to prompt engineering, including guides, tools, and datasets.
 - [Prompt 编写模式：如何将思维框架赋予机器](https://github.com/prompt-engineering/prompt-patterns) - 一份关于如何编写优秀的prompt的指南，包括一些常用的编写模式和技巧。
 - [免费 Prompt Engineering 教程](https://github.com/thinkingjimmy/Learning-Prompt) - 一个免费的Prompt Engineering教程，提供从入门到高级的学习资料和案例分析。
+
+### Other
+- [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services.
 
 [pr-image]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg
 [license-image]: https://img.shields.io/github/license/DukeLuo/awesome-awesome-prompts
