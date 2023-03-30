@@ -9,6 +9,7 @@ An awesome list for collecting awesome lists related to prompt engineering.
 - [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3.
 - [Awesome GPT-3](https://github.com/elyase/awesome-gpt3) - A collection of demos and articles about the OpenAI GPT-3 API.
 - [ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - 一个收集了关于ChatGPT中文调教的指南和优秀的调教案例的资源列表。
+- [Awesome-ChatGPT](https://github.com/runningcheese/Awesome-ChatGPT) - 一个由和 ChatGPT 相关的资源列表，收集了有关 ChatGPT 的替代品、平台和使用教程等。
 
 ### Prompt Engineering
 - [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - A comprehensive guide to prompt engineering, covering everything from choosing prompts to fine-tuning models.
