@@ -20,6 +20,7 @@ An awesome list for collecting awesome lists related to prompt engineering.
 
 ### Other
 - [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services.
+- [Open LLMs](https://github.com/eugeneyan/open-llms) - A list of open LLMs available for commercial use.
 
 [pr-image]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg
 [license-image]: https://img.shields.io/github/license/DukeLuo/awesome-awesome-prompts
