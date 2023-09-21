@@ -1,5 +1,6 @@
 # Awesome Awesome Prompts ✨
 
+[![X Follow][x-image]][x-url]
 [![PRs Welcome][pr-image]][pr-url]
 [![License][license-image]][license-url]
 
@@ -28,7 +29,9 @@ An awesome list for collecting awesome lists related to prompt engineering.
 - [Awesome AI-Powered Developer Tools](https://github.com/jamesmurdza/awesome-ai-devtools) - Curated list of AI-powered developer tools.
 - [Open LLMs](https://github.com/eugeneyan/open-llms) - A list of open LLMs available for commercial use.
 
+[x-image]: https://img.shields.io/badge/follow-ihuanluo-black?logo=x
 [pr-image]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg
 [license-image]: https://img.shields.io/github/license/DukeLuo/awesome-awesome-prompts
+[x-url]: https://twitter.com/ihuanluo
 [pr-url]: https://github.com/DukeLuo/awesome-awesome-prompts/pulls
 [license-url]: https://github.com/DukeLuo/awesome-awesome-prompts/blob/main/LICENSE
