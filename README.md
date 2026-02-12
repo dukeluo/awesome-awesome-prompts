@@ -29,6 +29,7 @@ An awesome list for collecting awesome lists related to prompt engineering.
 - [Awesome AIGC Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials) - Curated tutorials and resources for Large Language Models, AI Painting, and more.
 - [Awesome AI-Powered Developer Tools](https://github.com/jamesmurdza/awesome-ai-devtools) - Curated list of AI-powered developer tools.
 - [Open LLMs](https://github.com/eugeneyan/open-llms) - A list of open LLMs available for commercial use.
+- [Awesome Vibe Coding](https://github.com/taskade/awesome-vibe-coding) - A curated list of vibe coding tools, platforms, and resources for building software through natural language prompts.
 
 [x-image]: https://img.shields.io/badge/follow-ihuanluo-black?logo=x
 [pr-image]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg
