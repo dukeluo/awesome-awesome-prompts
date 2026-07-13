@@ -1,5 +1,5 @@
 # yaml-language-server: $schema=https://coderabbit.ai/integrations/schema.v2.json
-language: "zh-CN"
+language: "en-US"
 tone_instructions: "Please maintain a professional, helpful, and objective tone."
 
 reviews:
