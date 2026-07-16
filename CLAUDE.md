@@ -18,6 +18,16 @@ The rules in `.coderabbit.yaml` will be applied to every PR. Follow them when ed
 - **Within a category**, insert new rows in descending star-count order when stars are visible.
 - **Bilingual tone:** existing entries mix English and Chinese descriptions. Match the surrounding style — concise, professional, no marketing fluff.
 - A row that names a repo must link to `https://github.com/owner/repo` (the weekly audit keys off this exact pattern — see below).
+- Before updating an existing row, check the repository's current GitHub page for renames, redirects, and material changes in scope. Do not rewrite an accurate description merely for style.
+- When a repository moves or is renamed, update the resource link and both shields.io badge paths together to the canonical `owner/repo`.
+
+## Category boundaries
+
+- **AI Coding & Agents:** AI coding tools, agent instructions/configuration, project rules, and design context intended for coding agents.
+- **AI Directories:** broad collections spanning multiple AI domains, tools, projects, or learning resources.
+- **LLMs & Platforms:** resources centered on specific models, model families, or AI product ecosystems.
+- **Prompt Engineering:** material that teaches how to design and improve prompts, including techniques, patterns, research, and tooling.
+- **Prompt Libraries:** ready-to-use prompts, examples, templates, and prompt managers. In short: Prompt Engineering teaches the method; Prompt Libraries provides reusable prompts.
 
 ## Weekly audit workflow
 
@@ -28,10 +38,13 @@ The rules in `.coderabbit.yaml` will be applied to every PR. Follow them when ed
 - **Archived repos** are kept but flagged in the PR body.
 - Updates the `_Last audited: <timestamp>_` footer in place.
 
+After a comprehensive manual audit, update the `_Last audited` footer using its existing format.
+
 When reviewing/editing an `automated-audit` PR, CodeRabbit is configured to do a broader health check (low-activity entries, miscategorizations, broken badges) — expect comments beyond the diff.
 
 ## Conventions worth knowing
 
 - Feature branches per addition (e.g. `add-awesome-opensource-ai`); the audit owns `weekly-audit-pr`.
+- Commit messages follow Conventional Commits (for example, `docs: reorganize categories and refresh resources`). Use `docs:` for README and repository-guidance changes unless another existing type is more accurate.
 - License/PR/Twitter shields and `[x-url]`-style reference definitions live at the bottom of `README.md` — preserve them when editing the footer.
 - `.idea/` is gitignored; no other tooling state should be committed.
