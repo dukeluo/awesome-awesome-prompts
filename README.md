@@ -33,6 +33,7 @@ An awesome list for collecting awesome lists related to AI.
 | [Awesome AIGC Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials) | Curated tutorials and resources for Large Language Models, AI Painting, and more. | ![stars](https://img.shields.io/github/stars/luban-agi/Awesome-AIGC-Tutorials?style=flat) | ![last commit](https://img.shields.io/github/last-commit/luban-agi/Awesome-AIGC-Tutorials?style=flat) |
 | [Awesome Open Source AI](https://github.com/alvinreal/awesome-opensource-ai) | Curated list of notable open-source AI projects, models, tools, and infrastructure. | ![stars](https://img.shields.io/github/stars/alvinreal/awesome-opensource-ai?style=flat) | ![last commit](https://img.shields.io/github/last-commit/alvinreal/awesome-opensource-ai?style=flat) |
 | [Awesome-AI](https://github.com/runningcheese/Awesome-AI) | 你的《人工智能指南》，收集了有关 AI 的工具、平台和使用教程等。 | ![stars](https://img.shields.io/github/stars/runningcheese/Awesome-AI?style=flat) | ![last commit](https://img.shields.io/github/last-commit/runningcheese/Awesome-AI?style=flat) |
+| [SaaSCity](https://saascity.io) | Gamified SaaS & AI product directory — every listing becomes a building on a live isometric city map. | — | — |
 
 ## LLMs & Platforms
 
