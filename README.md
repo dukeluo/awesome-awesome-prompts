@@ -8,11 +8,13 @@ An awesome list for collecting awesome lists related to AI.
 
 ## Contents
 
-- [AI Coding & Agents](#ai-coding--agents)
-- [AI Directories](#ai-directories)
-- [LLMs & Platforms](#llms--platforms)
-- [Prompt Engineering](#prompt-engineering)
-- [Prompt Libraries](#prompt-libraries)
+- [Awesome Awesome AI ✨](#awesome-awesome-ai-)
+  - [Contents](#contents)
+  - [AI Coding \& Agents](#ai-coding--agents)
+  - [AI Directories](#ai-directories)
+  - [LLMs \& Platforms](#llms--platforms)
+  - [Prompt Engineering](#prompt-engineering)
+  - [Prompt Libraries](#prompt-libraries)
 
 ## AI Coding & Agents
 
@@ -23,6 +25,7 @@ An awesome list for collecting awesome lists related to AI.
 | [Awesome Cursor Rules](https://github.com/PatrickJS/awesome-cursorrules) | A curated collection of modern `.mdc` project rules for customizing the Cursor AI editor. | ![stars](https://img.shields.io/github/stars/PatrickJS/awesome-cursorrules?style=flat) | ![last commit](https://img.shields.io/github/last-commit/PatrickJS/awesome-cursorrules?style=flat) |
 | [Awesome AI-Powered Developer Tools](https://github.com/jamesmurdza/awesome-ai-devtools) | Curated list of AI-powered developer tools. | ![stars](https://img.shields.io/github/stars/jamesmurdza/awesome-ai-devtools?style=flat) | ![last commit](https://img.shields.io/github/last-commit/jamesmurdza/awesome-ai-devtools?style=flat) |
 | [Awesome Agent Evals](https://github.com/benchflow-ai/awesome-evals) | A curated collection of papers, articles, talks, tools, and benchmarks for building and evaluating AI agents. | ![stars](https://img.shields.io/github/stars/benchflow-ai/awesome-evals?style=flat) | ![last commit](https://img.shields.io/github/last-commit/benchflow-ai/awesome-evals?style=flat) |
+| [Awesome DeepSeek Agent](https://github.com/deepseek-ai/awesome-deepseek-agent) | A curated list of guides for integrating DeepSeek models into popular AI agent and coding-assistant tools. | ![stars](https://img.shields.io/github/stars/deepseek-ai/awesome-deepseek-agent?style=flat) | ![last commit](https://img.shields.io/github/last-commit/deepseek-ai/awesome-deepseek-agent?style=flat) |
 | [Awesome Vibe Coding](https://github.com/taskade/awesome-vibe-coding) | A guide to vibe coding with tools, frameworks, best practices, and resources for building software through natural language prompts. | ![stars](https://img.shields.io/github/stars/taskade/awesome-vibe-coding?style=flat) | ![last commit](https://img.shields.io/github/last-commit/taskade/awesome-vibe-coding?style=flat) |
 | [Awesome AI Coding Sandboxes](https://github.com/fhiltscher/awesome-ai-coding-sandboxes) | A curated list of sandboxing and isolation solutions for running AI coding agents' code, ranked by isolation strength, network egress control, and secrets handling. | ![stars](https://img.shields.io/github/stars/fhiltscher/awesome-ai-coding-sandboxes?style=flat) | ![last commit](https://img.shields.io/github/last-commit/fhiltscher/awesome-ai-coding-sandboxes?style=flat) |
 
